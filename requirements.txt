@@ -1,0 +1,4 @@
+mediapipe==0.8.9.1
+opencv_python==4.5.5.62
+PyAutoGUI==0.9.53
+PyDirectInput==1.0.4
